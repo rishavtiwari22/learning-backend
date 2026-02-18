@@ -1,0 +1,1 @@
+This is the text, i'm going to use in node js fs practice.

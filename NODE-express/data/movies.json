@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "name": "The Shawshank Redemption",
+    "releaseYear": 1994,
+    "duration": "2h 22min"
+  },
+  {
+    "id": 2,
+    "name": "The Godfather",
+    "releaseYear": 1999,
+    "duration": "2h 55min"
+  },
+  {
+    "id": 3,
+    "name": "The Dark Knight",
+    "releaseYear": 2008,
+    "duration": "2h 32min"
+  },
+  { "id": 4, "name": "Inception", "releaseYear": 2010, "duration": "2h 28min" },
+  {
+    "id": 5,
+    "name": "Forrest Gump",
+    "releaseYear": 1994,
+    "duration": "2h 22min"
+  },
+  { "id": 6, "name": "Rishav", "releaseYear": 2018, "duration": "2h 22min" }
+]
